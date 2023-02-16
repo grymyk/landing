@@ -17,8 +17,10 @@
       "html-loader": "^4.2.0",
       "html-webpack-plugin": "^4.5.2",
       "lodash": "^4.17.21",
+      "sass": "^1.58.1",
+      "sass-loader": "^13.2.0",
       "template-ejs-loader": "^0.9.4",
-      "webpack": "^5.4.0",
+      "webpack": "^5.75.0",
       "webpack-cli": "^4.2.0",
       "webpack-dev-middleware": "^4.0.2",
       "webpack-dev-server": "^4.11.1"
