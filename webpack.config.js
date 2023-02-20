@@ -21,7 +21,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
    plugins: [
      new HtmlWebpackPlugin({
       	filename: 'index.html',
-        template: './src/ejs/index.ejs',
+        template: './src/index.ejs',
      }),
    ],
    output: {
